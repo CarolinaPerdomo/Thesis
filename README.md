@@ -24,3 +24,4 @@ Here you can find the Notebooks developed in Mathematica 11.0 for my Ph.D. thesi
 
 ### These studies were financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001. Thus, I acknowledge CAPES for the given financial support in the form of a Ph.D. scholarship.
 ### This codes are based upon work from COST Action CA16201 PARTICLEFACE, supported by COST (European Cooperation in Science and Technology, www.cost.eu).
+### We also acknowledge support from Fundação para a Ciência e Tecnologia (FCT) through the projects UID/FIS/04564/2020 and CERN/FIS-COM/0035/2019
