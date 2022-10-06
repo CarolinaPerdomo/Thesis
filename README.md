@@ -21,3 +21,6 @@ Here you can find the Notebooks developed in Mathematica 11.0 for my Ph.D. thesi
 
 ### About regularization methods in general:
 - I recommend reading these great articles at [1-loop](https://link.springer.com/article/10.1140/epjc/s10052-017-5023-2) and [2-loops](https://link.springer.com/article/10.1140/epjc/s10052-021-08996-y) order. :bookmark_tabs:
+
+### These studies were financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001. Thus, I acknowledge CAPES for the given financial support in the form of a Ph.D. scholarship.
+### This codes are based upon work from COST Action CA16201 PARTICLEFACE, supported by COST (European Cooperation in Science and Technology, www.cost.eu).
