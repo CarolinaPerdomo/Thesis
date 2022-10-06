@@ -20,4 +20,4 @@ Here you can find the Notebooks developed in Mathematica 11.0 for my Ph.D. thesi
 - Basically, IREG is a method where divergent integrals are solved in 4-dimensions and the divergent part of the integral is isolated in the form of what we call a "Basic Divergent Integral" (BDI) that does not need to be solved explicitly. This integral does not depend on physical parameters such as mass or external momentum.
 
 ### About regularization methods in general:
-- I recommend reading these great articles in [1-looop](https://link.springer.com/article/10.1140/epjc/s10052-017-5023-2) and [2-loops](https://link.springer.com/article/10.1140/epjc/s10052-021-08996-y).
+- I recommend reading these great articles at [1-loop](https://link.springer.com/article/10.1140/epjc/s10052-017-5023-2) and [2-loops](https://link.springer.com/article/10.1140/epjc/s10052-021-08996-y) order.
