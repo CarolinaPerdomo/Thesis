@@ -17,7 +17,7 @@ Here you can find the Notebooks developed in Mathematica 11.0 for my Ph.D. thesi
 
 ###  About IREG:
 - For more reference on how to apply the IREG method, you can check our articles ["Two-loop renormalisation of gauge theories in 4D Implicit Regularisation: transition rules to dimensional methods"](https://link.springer.com/article/10.1140/epjc/s10052-021-09259-6), ["A Brief Review of Implicit Regularization and Its Connection with the BPHZ Theorem"](https://www.mdpi.com/2073-8994/13/6/956), and ["Two-loop renormalisation of non-Abelian gauge theories in 4D Implicit Regularisation"](https://pos.sissa.it/398/725).
-- Basically, IREG is a method where divergent integrals are solved in 4-dimensions and the divergent part of the integral is isolated in the form of what we call a "Basic Divergent Integral" (BDI) that does not need to be solved explicitly. This integral does not depend on physical parameters such as mass or external momentum.
+- Basically, IREG is a method where divergent integrals are treated in 4-dimensions and the divergent part of the integral is isolated in the form of what we call a "Basic Divergent Integral" (BDI) that does not need to be solved explicitly. This integral does not depend on physical parameters such as mass or external momentum.
 
 ### About regularization methods in general:
 - I recommend reading these great articles at [1-loop](https://link.springer.com/article/10.1140/epjc/s10052-017-5023-2) and [2-loops](https://link.springer.com/article/10.1140/epjc/s10052-021-08996-y) order.
