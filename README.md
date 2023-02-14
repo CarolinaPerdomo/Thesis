@@ -5,7 +5,7 @@ Here you can find the Notebooks developed in Mathematica 11.0 for my Ph.D. thesi
 - We use the [FeynArts and FeynCalc](https://feyncalc.github.io) packages to generate the diagrams and amplitudes. :computer:
 - For more references about the work :bookmark_tabs:, you can read the [Abstract](https://github.com/CarolinaPerdomo/Thesis/blob/20a39403768529fee19db489173bd88e4d053dca/Abstract.pdf) and see the [slides](https://github.com/CarolinaPerdomo/Thesis/blob/20a39403768529fee19db489173bd88e4d053dca/thesis_Carolina_slides.pdf) used in the defense.
 - For the thesis text, you can read it [here](https://github.com/CarolinaPerdomo/Thesis/blob/259eead77652244e83723693e21694e681d4a002/Final_Version_with_Corrections_4.pdf).
-- Article including massive gauge theories and notebooks with the mass amplitudes are in progress.
+- Article including QCD and notebooks are in progress.
 - The notebooks need to be downloaded and have the corresponding packages downloaded to run them.
 
 ###  For the electron correction in 2-loop QED:
